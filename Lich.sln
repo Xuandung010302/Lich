@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lich", "Lich\Lich.csproj", "{0A924884-F168-4E1E-8DDA-52F10216C17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A924884-F168-4E1E-8DDA-52F10216C17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A924884-F168-4E1E-8DDA-52F10216C17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A924884-F168-4E1E-8DDA-52F10216C17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A924884-F168-4E1E-8DDA-52F10216C17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02A0650-B7C6-4302-A234-DAE69A4D6C8A}
+	EndGlobalSection
+EndGlobal
